@@ -35,3 +35,16 @@ I am looking for an internship to start my career path in this direction.
   + English (A2)
 
 ---
+## Code example
+
+__Task:__
+
+_Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers._
+
+__Solution:__
+
+```javascript
+function even_or_odd(number) {
+  return number % 2 === 0 ? 'Even' : 'Odd';
+}
+```
