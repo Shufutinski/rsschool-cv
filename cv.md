@@ -1,5 +1,4 @@
-Muslim M. Yanarsaev
-============
+# Muslim M. Yanarsaev
 
 ---
 __Contry:__ Russia\
@@ -23,3 +22,16 @@ I am looking for an internship to start my career path in this direction.
 ---
 ## Skills
 
+* IT-stack
+  + HTML
+  + CSS
+  + JavaScript
+  + Python
+  + Django
+  + Flask
+  + GitHub
+* Language
+  + Russian (native)
+  + English (A2)
+
+---
