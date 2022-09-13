@@ -12,13 +12,13 @@ __Phone number:__ +7 (938) 902-53-33
 ---
 ## About myself
 
-Я Python-программист. Хорошо ориентируюсь в языке. Есть свои проекты на фреймворке Django. 
+I am a Python programmer. I am well versed in this programming language. I have my own projects in the Django framework.
 
-Также я на протяжении года работал в международной компании разработчиком 1С.
+I also worked for a year in an international company as a 1C developer.
 
-Но в последствии решил изменить своё направление и переключиться на front-end.
-Умею работать в коллективе и очень хочу проффесионально развиваться.
-Нахожусь в поиске стажировки для старта своего карьерного пути в IT.
+But later I decided to change my direction and switch to the front-end.
+I am able to work in a team and I really want to develop professionally.
+I am looking for an internship to start my career path in this direction.
 
 ---
 ## Skills
