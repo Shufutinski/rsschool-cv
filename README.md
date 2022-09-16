@@ -1,1 +1,1 @@
-# [Link to CV project](https://github.com/Shufutinski/rsschool-cv/blob/gh-pages/cv.md)
+# [Link to CV repository](https://Shufutinski.github.io/rsschool-cv/)
