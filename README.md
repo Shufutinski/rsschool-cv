@@ -1,1 +1,1 @@
-# rsschool-cv
+# [Link to CV repository](https://Shufutinski.github.io/rsschool-cv/)
